@@ -1,1 +1,1 @@
-# one-click-deloitte-table-booking.github.io-
+# one-click-deloitte-table-booking.github.io
